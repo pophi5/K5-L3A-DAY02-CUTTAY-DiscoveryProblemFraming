@@ -6,11 +6,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
+- Họ tên:Vũ Văn Hảo
+- MSSV:2A202603419
 - Email trường (không bắt buộc, repo có thể để public):
-- Tên nhóm:
-- Link repo nhóm:
+- Tên nhóm:CUTTAY
+- Link repo nhóm:https://github.com/pophi5/K5-L3A-DAY02-CUTTAY-DiscoveryProblemFraming
 
 ---
 
